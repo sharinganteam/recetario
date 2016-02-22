@@ -1,0 +1,1 @@
+jquery que sea necesario para el uso de la web
